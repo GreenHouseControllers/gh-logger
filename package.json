@@ -1,0 +1,36 @@
+{
+  "name": "gh-error-log",
+  "version": "1.0.0",
+  "description": "This module logs errors that you give it to log.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GreenHouseControllers/gh-error-log.git"
+  },
+  "keywords": [
+    "gh",
+    "ghc",
+    "greenHouse",
+    "err",
+    "error",
+    "log",
+    "json",
+    "errorLog",
+    "node",
+    "nodejs"
+  ],
+  "author": "Strizhkov Glab",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GreenHouseControllers/gh-error-log/issues"
+  },
+  "homepage": "https://github.com/GreenHouseControllers/gh-error-log#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "moment": "^2.29.1",
+    "path": "^0.12.7"
+  }
+}
