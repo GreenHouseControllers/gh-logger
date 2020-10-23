@@ -1,5 +1,5 @@
 {
-  "name": "gh-error-log",
+  "name": "gh-logger",
   "version": "1.0.0",
   "description": "This module logs errors that you give it to log.",
   "main": "index.js",
